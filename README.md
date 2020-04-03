@@ -1,7 +1,7 @@
 # Ulauncher-Themes
 ## Aritim-Dark
 
-![Aritim-Dark](Images/Aritim-Dark.png)
+![Aritim-Dark](Images/uLauncher-Aritim-Dark.png)
 
 A theme for Ulauncher to work well with the Aritim-Dark KDE Theme 
 

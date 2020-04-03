@@ -4,27 +4,27 @@
  @define-color bg_color #0f141a;
  @define-color window_bg @bg_color;
  @define-color window_border_color #0f141a;
- @define-color prefs_backgroud #2b3948;
+ @define-color prefs_backgroud #fff;
  
  /**
   * Input
   */
- @define-color selected_bg_color yellow;
- @define-color selected_fg_color yellow;
- @define-color input_color #d1ccbd;
+ @define-color selected_bg_color #3a4147;
+ @define-color selected_fg_color #d3dae3;
+ @define-color input_color #d3dae3;
  @define-color caret_color darker(@input_color);
  
  /**
   * Result items
   */
- @define-color item_name #2b3948;
- @define-color item_text #2b3948;
- @define-color item_box_selected #141a21;
- @define-color item_text_selected #d1ccbd;
- @define-color item_name_selected #d1ccbd;
- @define-color item_shortcut_color #d1ccbd;
+ @define-color item_name #666a73;
+ @define-color item_text #666a73;
+ @define-color item_box_selected #2b5278;
+ @define-color item_text_selected #d3dae3;
+ @define-color item_name_selected #d3dae3;
+ @define-color item_shortcut_color #548281;
  @define-color item_shortcut_shadow darker(@bg_color);
- @define-color item_shortcut_color_sel #2b3948;
+ @define-color item_shortcut_color_sel #d3dae3;
  @define-color item_shortcut_shadow_sel darker(@item_box_selected);
  
  .app {
